@@ -1,35 +1,6 @@
 [
       {
         "price": "300",
-        "pic_url": '../res/gui.png'
-      },
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
-      },
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
-      },
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
-      },
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
-      },
-
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
-      },
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
-      },
-      {
-        "price": "600",
-        "pic_url": '../res/gui.png'
+        "pic_url": "../res/gui.png"
       }
 ]
