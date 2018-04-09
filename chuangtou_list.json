@@ -2,5 +2,25 @@
       {
         "price": "300",
         "pic_url": "../res/gui.png"
-      }
+      },
+      {
+        "price": "300",
+        "pic_url": "../res/gui.png"
+      }, 
+      {
+        "price": "300",
+        "pic_url": "../res/gui.png"
+      },  
+      {
+        "price": "300",
+        "pic_url": "../res/gui.png"
+      }, 
+      {
+        "price": "300",
+        "pic_url": "../res/gui.png"
+      }, 
+      {
+        "price": "300",
+        "pic_url": "../res/gui.png"
+      },
 ]
